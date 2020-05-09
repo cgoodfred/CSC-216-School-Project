@@ -1,1 +1,1 @@
-# csc216-001-P1-32
+The purpose of project 1 was to create and implement a seating chart manager that could handle making reservations of different types with different preferences and reserve seats accordingly. The idea for this one was being implemented for use with a plane by the gate agent of an airline company. Passengers could select First Class, Business Class, or Economy seats and have a preference between a window and an aisle seat. It would accomodate requests as available.
